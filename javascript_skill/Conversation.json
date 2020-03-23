@@ -9,7 +9,7 @@
 	"CleanupOnCancel": false,
 	"WriteToLog": false,
 	"Parameters": {
-        "projectId" : "YOUR_GOOGLE_CLOUD_PROJECT_ID",
-        "getAccessTokenUrl" : "YOUR_GOOGLE_CLOUD_FUNCTIONS_TRIGGER_URL"
+        "projectId" : "misty-jdmuoc",
+        "getAccessTokenUrl" : "https://us-central1-misty-jdmuoc.cloudfunctions.net/get-access-token"
 	}
 }
